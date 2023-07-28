@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/vendor
+/.env
+/.env.backup
+/.idea
+/.vscode
+/composer.lock
+/package-lock.json
+/.htaccess
+/public/--adminer.php
+/public/robots.txt
