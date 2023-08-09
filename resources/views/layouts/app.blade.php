@@ -9,6 +9,7 @@
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet"/>
     @vite(['resources/css/app.css','resources/js/app.js'])
     <livewire:styles>
+    <script src="//unpkg.com/alpinejs" defer></script>
 </head>
 <body class="font-sans bg-gray-900 text-white">
 <nav class="border-b border-gray-800">
