@@ -20,3 +20,4 @@ yarn-error.log
 /.htaccess
 /public/--adminer.php
 /public/robots.txt
+/phpunit.xml.bak
